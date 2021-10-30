@@ -1,8 +1,12 @@
 {
-  "name": "eslint-config",
-  "version": "1.0.0",
+  "name": "@henrysipp/eslint-config",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:henrysipp/eslint-config.git"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.2.0",
     "@typescript-eslint/parser": "^5.2.0",
